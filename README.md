@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project "Learning Management System"<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about Frontend Development, Javascript and React<br>
+🔭 I’m currently working on project "Learning Management System"<br>🌱 I’m currently learning "Full Stack Web Development"<br>💬 Ask me about Frontend Development, Javascript and React<br>
 
 
 ## 🌐 Socials:
