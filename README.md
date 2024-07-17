@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning "Full Stack Web Development".<br>💬 Ask me about Web Development, Javascript and React.<br>
+🌱 I’m currently learning "Full Stack Web Development"[MERN].<br>💬 Ask me about Web Development, Javascript and React.<br>
 
 [![](https://visitcount.itsvg.in/api?id=himanshuramteke&icon=0&color=0)](https://visitcount.itsvg.in)
 
